@@ -1,6 +1,6 @@
 #  Player Groupings and CSV Export Automation
 
-[See Code here](https://github.com/harrybehn/PortfolioProjectCode/blob/main/Program%20Email%20sending.sas)
+[See VBA Code here](https://github.com/harrybehn/PortfolioProjectCode/blob/main/PlayerGroupings.bas)
 
 ## Overview
 This project automates the process of grouping players by Food Credits and generating separate CSV files for each group using VBA in Excel. It is designed to streamline manual data segmentation and export tasks, making it ideal for operational reporting or incentive tracking.
