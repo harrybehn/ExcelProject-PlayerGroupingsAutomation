@@ -30,3 +30,7 @@ This project automates the process of grouping players by Food Credits and gener
 4. **Error Handling**
    - Display a message if the sheet name is incorrect or if any unexpected error occurs.
 
+## Technologies Used
+- MS Excel
+- VBA (Visual Basic for Applications)
+
