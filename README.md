@@ -14,13 +14,13 @@ This project automates the process of grouping players by Food Credits and gener
 
 ## Process Flow
 1. Read Inputs
- - Sheet name and file name are read from specific cells in the control sheet (Sheet1).
+  - Sheet name and file name are read from specific cells in the control sheet (Sheet1).
 2. Group Players
- - A dictionary is used to map each Food Credit value to a collection of PlayerIDs.
+  - A dictionary is used to map each Food Credit value to a collection of PlayerIDs.
 3. Generate CSVs
- - For each Food Credit group:
-  - A new workbook is created.
-  - PlayerIDs are written to the sheet.
-  - The file is saved as Food Credits - [Tier].csv.
+  - For each Food Credit group:
+   - A new workbook is created.
+   - PlayerIDs are written to the sheet.
+   - The file is saved as Food Credits - [Tier].csv.
 4. Error Handling
- - Alerts the user if the sheet name is incorrect or if any unexpected error occurs.
+  - Alerts the user if the sheet name is incorrect or if any unexpected error occurs.
