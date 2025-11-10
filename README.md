@@ -5,7 +5,7 @@
 [See Excel File here](https://hannresortsphil-my.sharepoint.com/:x:/g/personal/harry_francisco_hannresorts_com/EVUwemcHuABMiBCyBd41q28Bv59fOhqD5dhslqHuieu2bQ?e=2d9ZB2)
 
 ## Overview
-This project automates the process of grouping players by Food Credits and generating separate CSV files for each group using VBA in Excel. It is designed to streamline manual data segmentation and export tasks, making it ideal for operational reporting or incentive tracking.
+This project automates the process of grouping players by Food Credits and generating separate CSV files for each group using VBA in Excel. This approach is particularly useful in scenarios—such as in my current role—where each group must be uploaded individually into a system that requires separate CSV files per category.
 
 ## Features
 - Reads player data from a specified worksheet.
