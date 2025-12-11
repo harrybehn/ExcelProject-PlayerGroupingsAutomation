@@ -2,7 +2,7 @@
 
 [See VBA Code here](https://github.com/harrybehn/PortfolioProjectCode/blob/main/PlayerGroupings.bas)
 
-[See Excel File here](https://hannresortsphil-my.sharepoint.com/:x:/g/personal/harry_francisco_hannresorts_com/EVUwemcHuABMiBCyBd41q28Bv59fOhqD5dhslqHuieu2bQ?e=2d9ZB2)
+[See Excel File here](https://1drv.ms/x/c/3f6a117fe62ef3f8/IQA2DsVCrTaAQpMNAz4--mBYAQ-6WuFEZRpNdnLCUFKAiuc?e=OwzyXi)
 
 ## Overview
 This project automates the process of grouping players by Food Credits and generating separate CSV files for each group using VBA in Excel. This approach is particularly useful in scenarios—such as in my current role—where each group must be uploaded individually into a system that requires separate CSV files per category.
